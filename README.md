@@ -1,3 +1,2 @@
 # -fuzzy-octo-umbrella
-
-A good description. A greater description.
+A good description
